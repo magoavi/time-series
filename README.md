@@ -4,6 +4,9 @@
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](#license)
 [![Packagist](https://img.shields.io/badge/author-avimago-green.svg)](https://github.com/magoavi)
 
+# ![alt text](https://raw.githubusercontent.com/magoavi/time-series/master/cover.png)
+
+
 > Time Series Analysis
 
 #### Abstract
